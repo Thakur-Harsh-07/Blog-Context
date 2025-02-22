@@ -9,6 +9,7 @@ Context API for state management: Avoids prop drilling by managing global state.
 Dynamic Blog Post Rendering: Fetches and displays posts from a centralized state.
 Loading Indicator: Shows a spinner while data is being fetched.
 Responsive UI: Designed using Tailwind CSS for a clean and modern look.
+<br>
 🛠️ Technologies Used
 <br>
 React.js
